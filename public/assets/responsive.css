@@ -1,0 +1,9 @@
+@media (min-width: 360px) and (max-width:1024px) {
+    nav {
+        display: none;
+    }
+    .phone-nav {
+        width: 100%;
+        display: block;
+    }
+}
